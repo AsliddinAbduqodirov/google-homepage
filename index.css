@@ -1,0 +1,38 @@
+nav {
+    text-align: right;
+}
+
+*{
+    border: 1px solid green;
+}
+
+.free {
+    margin-right: 10px;
+} main{
+    text-align: center;
+    margin-top: 50px;
+}
+a {
+    text-decoration: none;
+   color : black;
+}
+ a:hover {
+     text-decoration: underline;
+    color: black;
+} 
+button {
+    margin-right: 10px;
+    margin-top: 20px;
+}
+input {
+    border: 1px solid red;
+    border-radius: 12px; 
+    /* padding-right: 120px;
+    padding-left: 120px; */
+}
+/* .green {
+    background-color: honeydew;\
+    height: 44px; */
+
+
+}
