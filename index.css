@@ -31,7 +31,7 @@ button {
 button:hover {
     border: 1px solid #dadce0;
 }
-div {
+.green {
     border: 1px solid #dfe1e5;
     border-radius: 24px; 
     width: 500px;
@@ -60,12 +60,10 @@ input:focus {
     width: 0px;
 }
 
-/* .green {
-    background-color: honeydew;\
-    height: 44px; */
+    /* .green {
+        background-color: honeydew;\
+        height: 44px; */ */
 
-
-/* } */
 
 .yashil {
     color:black;
@@ -81,4 +79,33 @@ a {
 
 .blue:hover {
     color: blue;
+
+}
+
+
+main {
+    margin-bottom:70px ;
+}
+
+.color {
+    background-color: #f2f2f2;
+
+} 
+.color a {
+    color: #70757a;
+    padding: 0px 20px;
+    font-size: 14px;
+    color: #0000008A;
+
+}
+
+.reset {
+    border-bottom: 1px solid #dfe1e5;
+    padding: 15px 30px;
+    font-size: 15px;
+    color: #0000008A;
+}
+
+.clas {
+    float:right
 }
